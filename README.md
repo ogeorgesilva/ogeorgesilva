@@ -29,3 +29,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
  
   </div>
   
+  ##
+  
+<p>"O verdadeiro encanto é a gentileza. Seja alguém gente boa. Só isso!"</p>
+
+##
