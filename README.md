@@ -8,7 +8,7 @@
  <div>
   <a href="https://github.com/ogeorgesilva">
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ogeorgesilva&show_icons=false&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://pa1.narvii.com/6499/408f043f2b26341a6f54e54442b4860809736fbf_hq.gif"/>
+  <img height="180em" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif"/>
 </div>
 </div>
   
