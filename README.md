@@ -1,4 +1,4 @@
-## Olá!! Eu sou o George, seja bem-vindo(a) ao meu GitHub! ^_^
+## Olá! Eu sou o George, seja bem-vindo(a) ao meu GitHub! ^_^
 
  ## Estatísticas do GitHub:
    <div>
